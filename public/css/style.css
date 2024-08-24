@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(146, 115, 136);
+    margin: 5%;
+    padding: 2%;
+    font-family: "IBM Plex Sans", sans-serif;
+    color: black;
+    line-height: 2;
+    font-size: 16px;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 600;
+    margin: 0;
+    color: black;
+
+  }
+
+
+  input {
+    width: 20%;
+    border: 1px solid black;
+    background: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+}
+
